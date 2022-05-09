@@ -17,6 +17,7 @@ class SpeechDetectionViewController: UIViewController, SFSpeechRecognizerDelegat
         super.viewDidLoad()
         self.requestSpeechAuthorization()
 	print("Dummy")
+	print("")
     }
     
     //MARK: - Colors
